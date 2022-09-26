@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Pasha-007/react1.git/static/css/main.51587b98.css",
+    "main.js": "/Pasha-007/react1.git/static/js/main.1d95b3fe.js",
+    "static/js/787.240c78d7.chunk.js": "/Pasha-007/react1.git/static/js/787.240c78d7.chunk.js",
+    "index.html": "/Pasha-007/react1.git/index.html",
+    "main.51587b98.css.map": "/Pasha-007/react1.git/static/css/main.51587b98.css.map",
+    "main.1d95b3fe.js.map": "/Pasha-007/react1.git/static/js/main.1d95b3fe.js.map",
+    "787.240c78d7.chunk.js.map": "/Pasha-007/react1.git/static/js/787.240c78d7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.51587b98.css",
+    "static/js/main.1d95b3fe.js"
+  ]
+}
